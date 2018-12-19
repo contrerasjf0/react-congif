@@ -1,0 +1,7 @@
+export default {
+    appName: 'appName',
+    apiUrl: 'http://domain.com',
+    client: {
+      url: 'http://localhost:3000'
+    }
+};
